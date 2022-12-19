@@ -1,0 +1,15 @@
+{
+  "name": "ipfs-dapp",
+  "version": "0.1.0",
+  "description": "A simple DApp for sharing PNG images in IPFS.",
+  "main": "index.js",
+  "author": "Igor Podtsepko (i.podtsepko2002@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.7",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "chai": "^4.3.7",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.4"
+  }
+}
